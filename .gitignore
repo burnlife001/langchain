@@ -28,6 +28,7 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+**/review_out/
 .installed.cfg
 *.egg
 MANIFEST
